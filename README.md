@@ -1,4 +1,5 @@
 # snake_cpp
+![Screenshot from the game](Screenshots/Snake.png)
 ## Simple Snake game I made with C++ and SFML
 
 This is an old high-school project of mine & the first time I programmed a 2D game.
