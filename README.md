@@ -2,7 +2,7 @@
 ![Screenshot from the game](Screenshots/Snake.png)
 ## Simple Snake game I made with C++ and SFML
 
-This is an old high-school project of mine & the first time I programmed a 2D game.
+Archive of old high-school project and first exposure to 2D graphics or game development.
 
 To run the game, use the snake.exe application in snake_cpp\Release. The game should start with a welcome screen, to start playing press the 'enter' key.
 ![Screenshot from the game](Screenshots/Snake_start.png)
